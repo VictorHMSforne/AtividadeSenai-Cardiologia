@@ -6,7 +6,7 @@ Usando:
 
 * Diagrama de Caso de Uso;
 * Diagrama de Classe;
-* Diagrama De Atividade
+
 
 ---
 
