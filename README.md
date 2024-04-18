@@ -9,5 +9,5 @@ Usando:
 * Diagrama De Atividade
 
 ---
-![Foi Usado o Trello](https://cdn-icons-png.flaticon.com/512/1377/1377259.png)
+
 
